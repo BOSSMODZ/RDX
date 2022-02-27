@@ -1,7 +1,7 @@
 {
-  "name": "RDX",
+  "name": "ABHISHEK SER",
   "version": "1.0.6",
-  "description": "RDX whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "ABHISHEK SER whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./RDX/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -16,7 +16,7 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Abhiram Sachu / @phaticusthiccy",
+  "developer": "ABHISHEK SURESH/ @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/KINGS-AS/RDX/issues"
