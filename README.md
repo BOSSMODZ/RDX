@@ -1,6 +1,6 @@
 <div align="center"
 
- ![ABHISHEK SER](ABHISHEK SER.jpg?size=1500)
+ ![ABHISHEK SER](ABHISHEK.jpg?size=1500)
 
   ### TOTAL REPO VIEWS♦
 
