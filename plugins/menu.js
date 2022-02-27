@@ -1,8 +1,8 @@
-/* Copyright (C) 2021 RDXBOT.
+/* Copyright (C) 2021 ABHISHEK SER.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Abhiram Sachu
-Wa.me/+917736771516
+ABHISHEK SER
+Wa.me/+919074692450
 */
 
 const rdxbot = require('../events');
@@ -29,7 +29,7 @@ rdxbot.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (a
        
        const button = {
         buttonText: '♦ᴄʟɪᴄᴋ ʜᴇʀᴇ♦',
-        description: "𝚁𝙳𝚇 𝙱𝙾𝚃\n\nMENU MASSAGE\n\n\n©ʀᴅx ʙᴏᴛ",
+        description: "ABHISHEK SER\n\nMENU MASSAGE\n\n\n©ʀᴅx ʙᴏᴛ",
         sections: sections,
         listType: 1
        }
