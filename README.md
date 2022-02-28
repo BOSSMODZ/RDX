@@ -29,7 +29,7 @@
 5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click go<br>
 
 
-6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
+6.This method not working click [Whtsapp Number](https://wa.me/9190746924) Save my number and massage me 
 
 ------
 
@@ -54,6 +54,6 @@
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, RDX executives do not accept responsibility.
-By establishing the RDX, you are deemed to have accepted these responsibilities.
+Absolutely, ABHISHEK SER executives do not accept responsibility.
+By establishing the ABHISHEK SURESH, you are deemed to have accepted these responsibilities.
 ```
