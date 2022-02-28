@@ -24,9 +24,9 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/KINGS-AS/RDX/fork)
+ Click [FORK](https://github.BOSSMODZ/RDX/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/BOSSMODZ/RDX copy this url and change BOSSMODZ with your github username and click go<br>
 
 
 6.This method not working click [Whtsapp Number](https://wa.me/9190746924) Save my number and massage me 
