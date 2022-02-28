@@ -18,6 +18,7 @@ asena.addCommand({pattern: 'gm', fromMe: true, deleteCommand: true, desc: GM,}, 
     r_text[5] ="🌻𝓖𝓸𝓸𝓭 𝓶𝓸𝓻𝓷𝓲𝓷𝓰 💞";
     r_text[6] ="🌼🅖🅞🅞🅓 🅜🅞🅡🅝🅘🅝🅖 🐶";
     r_text[7] ="🍃Ⓖⓞⓞⓓ 🌈ⓜⓞⓡⓝⓘⓝⓖ 🥰";
+    r_text[8] ="🍃GOOD MORNING FROM ABHISHEK SER💝";
   
 
     var i = Math.floor(8*Math.random())
@@ -101,7 +102,8 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
                     r_text[5] ="🌻𝓖𝓸𝓸𝓭 𝓶𝓸𝓻𝓷𝓲𝓷𝓰 💞";
                     r_text[6] ="🌼🅖🅞🅞🅓 🅜🅞🅡🅝🅘🅝🅖 🐶";
                     r_text[7] ="🍃Ⓖⓞⓞⓓ 🌈ⓜⓞⓡⓝⓘⓝⓖ 🥰";
-                  
+                    r_text[8] ="🍃GOOD MORNING FROM ABHISHEK SER💝";
+  
                 
                     var i = Math.floor(8*Math.random())
                 
