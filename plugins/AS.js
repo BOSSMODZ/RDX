@@ -22,15 +22,15 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'turn on and turn of bgm. -bot owner command'
         alr_on = 'Antilink is already open!'
         alr_off = 'Antilink is currently closed!'
-        BGM_on = 'Bgm on aayi!'
-        BGM_off = 'Ini Bgm varilla :('
+        BGM_on = 'ABHISHEK SER Bgm on aayi!'
+        BGM_off = 'ABHISHEK SER Ini Bgm varilla :('
     }
     if (config.LANG == 'AZ') {
         l_dsc = 'Antilink alətini aktivləşdirir.'
         alr_on = 'Antilink hazırda açıqdır!'
         alr_off = 'Antilink hazırda bağlıdır!'
-        BGM_on = '*bgm option turned on*'
-        BGM_off = '*bgm option turned off*'
+        BGM_on = '* ABHISHEK SER bgm option turned on*'
+        BGM_off = '*ABHISHEK SER bgm option turned off*'
     }
     if (config.LANG == 'HI') {
         l_dsc = 'एंटीलिंक टूल को सक्रिय करता है।'
